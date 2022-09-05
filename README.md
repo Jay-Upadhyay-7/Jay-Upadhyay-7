@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jay-Upadhyay-7
 - 👀 I’m Passionate for computer science and tech world
 - 🌱 I’m interested in web and mobile development , ui/ux designing and data science
-- 💞️ Programming languages :- C,C++,Java,Python,Javacript
+- 💞️ Programming languages :- C,C++,Java,Python,Javascript
 - 📫 Currently learning React,DBMS,Node,Django.
 - My insta :- @meranamjay
 - My mail :- jayup070707@gmail.com
